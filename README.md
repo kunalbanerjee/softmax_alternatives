@@ -1,7 +1,5 @@
 # Softmax Alternatives
-
 This code corresponds to our article:
-
 [Exploring Alternatives to Softmax Function](https://arxiv.org/abs/2011.11538)
 
 
